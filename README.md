@@ -8,10 +8,10 @@
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-geWF76RCwLtnZ8qwWowPQNguL3RmwHVBC9FhGdlKrxdiJJigb/j/68SIy3Te4Bkz" crossorigin="anonymous"></script>
   </head>
   <body>
-    <h1>Hello, world!</h1>
+    <h1>Formulario</h1>
     <!-- CONTENEDOR PRINCIPAL-->
     <div class="container-sm">
-        <!--formulario-->
+        <!--Formulario-->
         <form class="row g-3 needs-validation" novalidate>
             <div class="col-md-4">
               <label for="validationCustom01" class="form-label">First name</label>
